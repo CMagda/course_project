@@ -1,11 +1,7 @@
-rm(list=ls())
 
 library(dplyr)
 library(tidyr)
 library(reshape2)
-
-direcotry<-c("C:\\Users\\Magda\\Desktop\\Datascientist_specialization\\Getting and cleaning data\\UCI HAR Dataset")
-
 
 
 ### 1) Merges the training and the test sets to create one data set.
